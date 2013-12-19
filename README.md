@@ -1,4 +1,4 @@
 test
 ====
 
-Tester mon une premiere livrable
+Tester une premiere application livrable
